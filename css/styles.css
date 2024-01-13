@@ -406,10 +406,12 @@ grid-template-columns: 40% 60%;
 .testimonials__Container h2{
     /*text-shadow: 0 0 5px #000;*/
    font-weight: bold;
+   color: #1665F8;
 }
 
 .testimonial{
     padding-top: 2rem;
+   background: #032B56;
 }
 
 .avatar{
@@ -425,11 +427,11 @@ grid-template-columns: 40% 60%;
     text-align: center;
 }
 .testimonial__info h5{
- 
+   color: #000;
    font-weight:bold;
 }
 .testimonial__body{
-    background: var(--color-primary);
+    background: #032B56;
     padding: 2rem;
     margin-top: 3rem;
     position:relative;
@@ -458,7 +460,7 @@ grid-template-columns: 40% 60%;
 
 .kcse{
     box-shadow: inset 0 0 3rem rgba(0,0,0,0.5);
-    background: var(--color-bg2);
+    background:#032B56;
    margin:2.5rem;
 }
 .kcse h2{
