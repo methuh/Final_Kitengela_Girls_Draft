@@ -411,7 +411,7 @@ grid-template-columns: 40% 60%;
 
 .testimonial{
     padding-top: 2rem;
-   background: #032B56;
+   /*background: #032B56;*/
 }
 
 .avatar{
@@ -420,7 +420,7 @@ grid-template-columns: 40% 60%;
     border-radius: 50%;
     overflow: hidden;
     margin:0 auto 1rem;
-    border: 1rem solid var(--color-bg1);
+    border: 1rem solid #032B56;
 }
 
 .testimonial__info{
