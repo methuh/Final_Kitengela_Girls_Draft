@@ -179,6 +179,10 @@ header{
 .about-header{
    height: 67vh;
 }
+.about-header h1,
+p{
+   padding-left:2rem;
+}
 .header__container{
     display: grid;
     grid-template-columns: 1fr 1fr;
