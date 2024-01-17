@@ -1,3 +1,6 @@
+body{
+    background:#E6EAFF;
+}
 .contact__container{
     box-shadow: inset 0 0 3rem rgba(0,0,0,0.5);
     background: #E6EAFF;
@@ -13,7 +16,7 @@
 
 /*aside form*/
 .contact__aside{
-    background: var(--color-primary);
+    background: #032B56;
     padding:3rem;
     border-radius: 1rem;
     position: relative;
